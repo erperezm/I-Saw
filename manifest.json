@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "name": "Saw",
+    "description": "highlight watched series",
+    "version": "0.9",
+    "icons": {
+      "128": "icon128.png"
+    },
+    "permissions": [
+      "storage",
+      "activeTab",
+      "scripting",
+      "tabs"
+    ],
+
+ "content_scripts": [
+   {
+     "matches": ["https://www3.animeflv.net/*"],
+     "css": ["my-styles.css"],
+     "js": ["sawScrapper.js"]
+   }
+ ],
+
+    
+    "host_permissions": [
+      "https://www3.animeflv.net/*"
+    ],
+
+
+    "content_security_policy": {
+  "extension_pages": "script-src 'self'; object-src 'self'"
+}
+
+  }
