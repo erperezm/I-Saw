@@ -1,6 +1,6 @@
 # Anime Tracker Extension
 
-![Logo](path/to/your/logo.png) 
+![Logo](https://raw.githubusercontent.com/erperezm/I-Saw/main/icon128.png) 
 
 ## Overview
 
