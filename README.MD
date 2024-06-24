@@ -4,7 +4,7 @@
 
 ## Overview
 
-I Saw Extension is a chrome based web browser extension designed to help anime enthusiasts keep track of their watched episodes and series across various streaming platforms. This extension provides a seamless way to manage your anime viewing progress without the hassle of switching between multiple services or s.
+I Saw is a chrome based web browser extension designed to help anime enthusiasts keep track of their watched episodes and series across various streaming platforms. This extension provides a seamless way to manage your anime viewing progress without the hassle of switching between multiple services or create multiple accounts.
 
 ### Features
 
